@@ -1,0 +1,15 @@
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.deps.json
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfo.cs
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CopyComplete
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.runtimeconfig.json
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.runtimeconfig.dev.json
+C:\Users\falvarez\source\repos\BlueCodingTest\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.genruntimeconfig.cache

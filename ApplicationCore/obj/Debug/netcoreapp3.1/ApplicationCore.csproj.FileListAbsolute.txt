@@ -1,0 +1,9 @@
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\falvarez\source\repos\BlueCodingTest\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
